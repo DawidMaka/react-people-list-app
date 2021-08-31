@@ -6,9 +6,9 @@ Technologies and tools I've used with this project:
 - React Hooks
 - Styled Components
 
-Live: https://web-devvv.github.io/react-people-list-app/
+Live: https://DawidMaka.github.io/react-people-list-app/
 
-Src: https://github.com/web-deVVV/react-people-list-app/tree/main/src
+Src: https://github.com/DawidMaka/react-people-list-app/tree/main/src
 
 ## Description
 
@@ -16,9 +16,9 @@ Add or remove elements from the list
 
 ## Instalation 
 ```sh
-git clone https://github.com/web-deVVV/react-people-list-app [folder-name]
+git clone https://github.com/DawidMaka/react-people-list-app [folder-name]
 cd [folder-name]
-yarn install
+yarn/npm install
 ```
 
 ## Available Scripts
